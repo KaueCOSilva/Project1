@@ -1,0 +1,61 @@
+@charset "UTF-8";
+body{
+    margin: auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+main{
+    border: 0 auto;
+    border-radius: 2em;
+    background-color: bisque;
+    padding: 2em;
+    width: 50em;
+    margin-left: 2em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    margin: auto;
+}
+li{
+    text-align:left;
+}
+#red{
+    color: rgb(255, 0, 0);
+    text-align: left;
+}
+#green{
+    color: rgb(0, 255, 0);
+    text-align: left;
+}
+#blue{
+    color: rgb(0, 0, 255);
+    text-align: left;
+}
+#red1{
+    color:#FF0000;
+    text-align: left;
+}
+#green2{
+    color:#00FF00;
+    text-align: left;
+}
+#blue3{
+    color:#0000FF;
+    text-align: left;
+}
+#red4{
+    color: red;
+    text-align: left;
+}
+#green5{
+    color: green;
+    text-align: left;
+}
+
+#blue6{
+    color: blue;
+    text-align: left;
+}
+h2{
+    padding-bottom: 1em;
+}
